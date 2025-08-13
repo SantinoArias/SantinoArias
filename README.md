@@ -11,3 +11,11 @@
 🖨️ 3D printing entrepreneur, CAD design, and custom part manufacturing.  
 🏆 Winner of the INNOVAR 2023 Award – “Roberto Robot” project.  
 🚀 Passionate about technology, automation, and developing innovative solution
+
+---
+
+## 🛠️ Tech Stack  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![PLC Siemens](https://img.shields.io/badge/PLC%20Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white)
